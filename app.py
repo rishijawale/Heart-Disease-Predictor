@@ -55,7 +55,7 @@ st.markdown("""
 
 # ---- Header ----
 st.markdown("<h1 style='text-align:center; color:#e74c3c;'>❤️ Heart Disease Prediction System</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center; color:gray;'>SE Mechanical Engineering | SPPU 2024 Pattern | AI & ML Project</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; color:gray;'>SE Mechanical Engineering</p>", unsafe_allow_html=True)
 st.markdown("---")
 
 # ---- Sidebar Info ----
