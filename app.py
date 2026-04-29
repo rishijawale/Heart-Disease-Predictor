@@ -179,6 +179,5 @@ st.markdown("---")
 st.markdown("""
 <p style='text-align:center; color:gray; font-size:13px;'>
 ⚠️ Disclaimer: This tool is for educational purposes only. Not a substitute for medical advice.<br>
-SE Mechanical Engineering | Savitribai Phule Pune University | 2024 Pattern (R25)
 </p>
 """, unsafe_allow_html=True)
